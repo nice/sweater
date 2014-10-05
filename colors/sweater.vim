@@ -39,12 +39,18 @@ highlight Cursor guifg=#F8F1E9 guibg=#36322c
 highlight MatchParen guibg=#819382 guifg=#FFFFFF
 highlight Search guibg=#663934 guifg=#FFFFFF
 highlight Visual guibg=#215870 guifg=#FFFFFF
-highlight ColorColumn guibg=#c3c3c6
+highlight ColorColumn guibg=#E5E5E5
 highlight LineNr guibg=#D4C5B9 guifg=#646258
 highlight StatusLine guifg=#D4C5B9 guibg=#646258
 highlight StatusLineNC guifg=#D4C5B9 guibg=#F8F1E9
 highlight VertSplit  guifg=#FFFFFF guibg=#767370 gui=none
 highlight Folded   guibg=#646258 guifg=#FFFFFF gui=none
+highlight CursorLine guibg=#E5E5E5
+highlight CursorColumn guibg=#E5E5E5
+highlight Pmenu   guifg=#F8F1E9 guibg=#215870 gui=none
+highlight PmenuSel  guifg=#36322c guibg=#D6D6D6 gui=none
+highlight Title  guifg=#36322c gui=none
+highlight SpecialKey guifg=#6470a3  gui=none
 
 " syntax highlights
 highlight Comment guifg=#DBA69D gui=italic
