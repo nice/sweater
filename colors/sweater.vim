@@ -45,8 +45,8 @@ highlight StatusLine   ctermfg=251 guifg=#D4C5B9 ctermbg=59  guibg=#646258
 highlight StatusLineNC ctermfg=251 guifg=#D4C5B9 ctermbg=255 guibg=#F8F1E9
 highlight VertSplit    ctermfg=231 guifg=#FFFFFF ctermbg=243 guibg=#767370 gui=none
 highlight Folded       ctermbg=59  guibg=#646258 ctermfg=231 guifg=#FFFFFF gui=none
-highlight CursorLine   ctermbg=254 guibg=#E5E5E5
-highlight CursorColumn ctermbg=254 guibg=#E5E5E5
+highlight CursorLine   ctermbg=254 guibg=#E5E5E5 cterm=none
+highlight CursorColumn ctermbg=254 guibg=#E5E5E5 cterm=none
 highlight Pmenu        ctermfg=255 guifg=#F8F1E9 ctermbg=23  guibg=#215870 gui=none
 highlight PmenuSel     ctermfg=236 guifg=#36322c ctermbg=188 guibg=#D6D6D6 gui=none
 highlight Title        ctermfg=236 guifg=#36322c gui=none
